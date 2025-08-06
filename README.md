@@ -41,7 +41,7 @@ A FastAPI-based backend service for GitHub OAuth integration and data synchroniz
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/osamaaurangzeb/fastapi-github-oauth-integration.git
 cd github_integration_api
 
 # Create virtual environment
